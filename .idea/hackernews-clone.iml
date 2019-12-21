@@ -2,7 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../hackernews-clone">
-      <sourceFolder url="file://$MODULE_DIR$/../hackernews-clone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hackernews-clone/hackernews" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
