@@ -4,7 +4,6 @@ import links.schema
 import users.schema
 
 
-
 class Query(users.schema.Query, links.schema.Query, graphene.ObjectType):
     pass
 

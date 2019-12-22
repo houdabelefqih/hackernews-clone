@@ -21,6 +21,7 @@
           <option value="hackernews.links.schema.graphene_django" />
           <option value="hackernews.urls.graphene_django" />
           <option value="graphql_jwt" />
+          <option value="links.schema.graphene_django" />
         </list>
       </option>
     </inspection_tool>
