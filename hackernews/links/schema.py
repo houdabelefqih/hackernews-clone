@@ -22,7 +22,7 @@ class VoteType(DjangoObjectType):
 class Query(graphene.ObjectType):
     links = graphene.List(LinkType, search=graphene.String())
     votes = graphene.List(VoteType, search=graphene.String())
-
+git add .
     def resolve_links(self, info, search=None,**kwargs):
         if search:
             filter = (
